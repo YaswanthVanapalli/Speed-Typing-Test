@@ -47,10 +47,10 @@ Follow these simple steps to run the project on your local machine:
    Just open the index.html file in your preferred browser:
 
    Right-click on index.html
-
-  Choose "Open with" > your browser (like Chrome, Firefox, etc.)
-
-  ✅ No need to install anything. It works instantly!
+   
+   Choose "Open with" > your browser (like Chrome, Firefox, etc.)
+   
+   ✅ No need to install anything. It works instantly!
 
 3. Start Typing!
    Once the page loads, you’ll see a sentence appear. Start typing and the timer will begin automatically.
