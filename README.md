@@ -1,4 +1,4 @@
-# Define the content of the README.md file for the Speed Typing Test project
+#  Speed Typing Test project
 speed_typing_readme = """
 # ⌨️ Speed Typing Test
 
