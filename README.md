@@ -1,4 +1,4 @@
-#  Speed Typing Test project
+
 speed_typing_readme = """
 # ⌨️ Speed Typing Test
 
