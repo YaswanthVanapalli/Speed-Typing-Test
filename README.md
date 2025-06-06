@@ -1,5 +1,4 @@
 
-speed_typing_readme = """
 # ⌨️ Speed Typing Test
 
 Test how fast you can type with this fun and interactive speed typing game!  
