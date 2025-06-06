@@ -43,20 +43,20 @@ Follow these simple steps to run the project on your local machine:
    ```bash
    git clone https://github.com/your-username/speed-typing-test.git
    cd speed-typing-test
-2.Open the project
-Just open the index.html file in your preferred browser:
+2. Open the project
+   Just open the index.html file in your preferred browser:
 
-Right-click on index.html
+   Right-click on index.html
 
-Choose "Open with" > your browser (like Chrome, Firefox, etc.)
+  Choose "Open with" > your browser (like Chrome, Firefox, etc.)
 
-✅ No need to install anything. It works instantly!
+  ✅ No need to install anything. It works instantly!
 
-3.Start Typing!
-Once the page loads, you’ll see a sentence appear. Start typing and the timer will begin automatically.
+3. Start Typing!
+   Once the page loads, you’ll see a sentence appear. Start typing and the timer will begin automatically.
 
-4.View Results
-After finishing the sentence, your speed (WPM) and accuracy will be displayed.
+4. View Results
+   After finishing the sentence, your speed (WPM) and accuracy will be displayed.
 
 
 
